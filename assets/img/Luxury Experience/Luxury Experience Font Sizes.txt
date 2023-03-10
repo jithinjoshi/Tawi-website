@@ -1,0 +1,22 @@
+The Luxury Experience Page
+
+Navigation Buttons Header titles - Inter - 16 pts
+
+The Luxury Experience Hero Title - DM Serif Display - 64 pts
+
+Escape to the Maldives sub heading - Montserrat - 32 pts
+
+Body In Image - Gotu - 18 pts
+
+Know More button - 126 x 43 - Gotu - 18 pts
+
+Headings - Montserrat - 40 pts
+Body - Poppins - 18 pts
+
+Footer
+Navigation Buttons - Inter - 18 pts
+
+Contact Info - SF Pro Display - 18 pts
+
+All rights reserved - Abel - 18 pts
+
