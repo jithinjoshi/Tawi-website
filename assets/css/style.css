@@ -87,11 +87,12 @@ h6 {
 .hero-luxury{
   font-size: 64pt;
   font-family: 'DM Serif Display', serif;
+  font-weight: 100;
 }
 
 .sub-heading{
   font-family: 'Montserrat', sans-serif;
-  font-size: 32pt;
+  font-size: 22pt;
 }
 
 #header .logo a {
@@ -622,4 +623,11 @@ h6 {
 
 .offers-packages{
   line-height: 1.8;
+}
+.jw{
+  display: flex;
+  justify-content: center;
+}
+.jw-img{
+  
 }
