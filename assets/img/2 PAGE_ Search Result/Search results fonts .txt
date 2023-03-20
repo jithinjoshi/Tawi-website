@@ -1,0 +1,26 @@
+Search Result page
+
+Navigation Buttons Header titles - Inter - 18 pts
+
+Escape to the maldives! Hero Title - DM Serif Display/regular - 64 pts
+Here are your search results - montserrat/Medium - 28 pts
+Luxurious Resorts, Villas & More - montserrat/Regular - 20 pts
+
+Date,people,room - Inter/regular -18 pts
+
+Card size W-1216 H-320 Curve-24
+Image size W-364 H-320 curve-24
+Heading - DM Serif Display/regular - 28 pts
+Date,people,room - Inter/regular -18 pts
+Body - Inter/regular -16 pts
+Button size W-204 H-46 curve-20 color #246266
+font - Inter/regular -18 pts
+
+page - Inter/regular -18 pts
+
+Footer
+Navigation Buttons - Inter - 18 pts
+
+Contact Info - SF Pro Display - 18 pts
+
+All rights reserved - Abel - 18 pts
